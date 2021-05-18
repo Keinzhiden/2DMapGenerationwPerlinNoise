@@ -1,0 +1,2 @@
+C:\Users\rouyr\source\repos\Perlin2DMap\x64\Debug\Perlin2DMap.exe
+C:\Users\rouyr\source\repos\Perlin2DMap\x64\Debug\Perlin2DMap.pdb

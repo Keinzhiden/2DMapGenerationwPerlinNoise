@@ -1,0 +1,37 @@
+﻿  Generation.cpp
+C:\Users\rouyr\source\repos\Perlin2DMap\Generation.cpp(121,61): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rouyr\source\repos\Perlin2DMap\Generation.cpp(121,45): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rouyr\source\repos\Perlin2DMap\Generation.cpp(308,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\rouyr\source\repos\Perlin2DMap\Generation.cpp(338,28): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\rouyr\source\repos\Perlin2DMap\Generation.cpp(413,29): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rouyr\source\repos\Perlin2DMap\Generation.cpp(414,28): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rouyr\source\repos\Perlin2DMap\Generation.cpp(427,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\rouyr\source\repos\Perlin2DMap\Generation.cpp(428,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\rouyr\source\repos\Perlin2DMap\Generation.cpp(429,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\rouyr\source\repos\Perlin2DMap\Generation.cpp(430,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\rouyr\source\repos\Perlin2DMap\Generation.cpp(431,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\rouyr\source\repos\Perlin2DMap\Generation.cpp(432,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\rouyr\source\repos\Perlin2DMap\Generation.cpp(433,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\rouyr\source\repos\Perlin2DMap\Generation.cpp(434,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\rouyr\source\repos\Perlin2DMap\Generation.cpp(435,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\rouyr\source\repos\Perlin2DMap\Generation.cpp(436,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\rouyr\source\repos\Perlin2DMap\Generation.cpp(437,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Main.cpp
+  Generating Code...
+  Perlin2DMap.vcxproj -> C:\Users\rouyr\source\repos\Perlin2DMap\Debug\Perlin2DMap.exe
